@@ -1,0 +1,16 @@
+faiss-cpu==1.11.0
+huggingface_hub==0.33.2
+langchain==0.3.26
+langchain-community==0.3.27
+langchain-core==0.3.68
+langchain-huggingface==0.3.0
+langchain-text-splitters==0.3.8
+llama-cpp-python==0.3.12
+PyMuPDF==1.26.3
+python-dotenv==1.1.1
+requests==2.32.4
+safetensors==0.5.3
+sentence-transformers==5.0.0
+torch==2.7.1
+transformers==4.53.1
+tqdm==4.67.1
